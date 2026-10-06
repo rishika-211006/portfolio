@@ -1,0 +1,81 @@
+{
+  "personal": {
+    "name": "Rishika Giri",
+    "role": "Aspiring ML/AI Engineer",
+    "location": "Ahmedabad, Gujarat, India",
+    "status": "Student",
+    "focus": "AI & Machine Learning | Python | Data Science | Building Intelligent Solutions",
+    "tagline": "Learning AI. Building the Future.",
+    "email": "rhxz990@gmail.com",
+    "github": "https://github.com/rishika-211006",
+    "linkedin": "https://www.linkedin.com/in/rishika-goswami-b37001305/",
+    "image": "assets/profile.jpg",
+    "resume": "assets/resume.pdf"
+  },
+  "projects": [],
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Programming"
+    },
+    {
+      "name": "C",
+      "category": "Programming"
+    },
+    {
+      "name": "C++",
+      "category": "Programming"
+    },
+    {
+      "name": "SQL",
+      "category": "Database"
+    },
+    {
+      "name": "Full-Stack Development",
+      "category": "Development"
+    },
+    {
+      "name": "Machine Learning",
+      "category": "AI / Data"
+    },
+    {
+      "name": "Scikit-learn",
+      "category": "AI / Data"
+    },
+    {
+      "name": "Data Science",
+      "category": "AI / Data"
+    },
+    {
+      "name": "Git",
+      "category": "Tools"
+    },
+    {
+      "name": "GitHub",
+      "category": "Tools"
+    }
+  ],
+  "experience": [],
+  "education": [
+    {
+      "degree": "Computer Science Engineering",
+      "institution": "Indus University",
+      "field": "Computer Science Engineering",
+      "dates": "2024–2028",
+      "cgpa": "9.6",
+      "skills": [
+        "Python",
+        "Programming"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Hackathon Participation",
+      "type": "Hackathon",
+      "date": "Multiple hackathons",
+      "description": "Participated in multiple hackathons as a Computer Science Engineering student.",
+      "projects": []
+    }
+  ]
+}
